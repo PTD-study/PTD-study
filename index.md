@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+### 리눅스 Profiling/Tracing/Debugging 기술관련 스터디 모집
 
-You can use the [editor on GitHub](https://github.com/PTD-study/PTD-study/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요. 저는 리눅스환경에서의 `Profiling/Tracing/Debugging` 분야를 좋아하는 개발자입니다.
+이 분야와 연관된 **기본기를 단단**하게 위해서 스터디를 진행하려합니다.
+위 분야를 주로 하지않더라도 다루려는 주제에 **관심**이 있으시다면 함께 하면 좋을것같습니다.
+이론뿐만 아니라 실제 명령어 레벨로 **실행/확인**도 하고 (사례별)**소스분석**도 진행합니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 주제
+리눅스기반 `Profiling/Tracing/Debugging` 관련 기본기학습
+- **소스코드에서 실행까지** (컴파일, 함수호출규약, 스택프레임, 최적화, 링크와로드, ELF 등)
+- **디버깅** (Dwarf, gdb, kgdb 등)
+- **프로그래머가 몰랐던 멀티코어 CPU** (프로세서기본동작, 비순차실행, 캐시 등)
+- **각종 tools 기능과 원리** (perf, ftrace, trace point, ptrace,
+                     strace, uftrace, systemtap 등)
 
-### Markdown
+### 스터디 방식
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. **Overview** (배경/핵심요약) `[30분]`
+2. **Instruction** (자세한 설명) `[1시간 30분]`
+3. **Example** (실행/소스분석/토론) `[2시간]`
 
-```markdown
-Syntax highlighted code block
+### 상세정보
+- **수준**: 초중급
+- **인원**: 5명
+- **장소**: [선릉역](http://naver.me/5LU2Mv16) 부근
+- **기간**: 4/30(일) ~ 10/1(일) 총 12주
+- **시간**: 일요일 13시~17시 (2주단위로 진행)
+- **규칙**: 2번이상 결석시 참여불가 (2번지각 = 1번결석)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### 지원방식
+- **지원메일**: [ptd.study@gmail.com](mailto:ptd.study@gmail.com)
+- **메일양식**:
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PTD-study/PTD-study/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    - 이름:
+    - 전화번호:
+    - 간단한 소개 및 지원동기:
+```
