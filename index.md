@@ -19,6 +19,12 @@
 2. **Instruction** (자세한 설명) `[1시간 30분]`
 3. **Example** (실행/소스분석/토론) `[2시간]`
 
+### 기대효과
+- 오픈소스 내 commit 1개이상 적용 (GNU binutils(objdump, readelf ..), gcc, gdb, perf, ftrace, uftrace 등)
+- 프로그램 실행원리 및 환경의 확실한 이해
+- SW개발자를 위한 CPU 기본지식
+- 각종 리눅스기반 `Profiling/Tracing/Debugging` tools 활용능력 및 원리이해
+
 ### 상세정보
 - **수준**: 초중급
 - **인원**: 5명
